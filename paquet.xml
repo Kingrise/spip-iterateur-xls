@@ -1,8 +1,8 @@
 <paquet
 	prefix="iterateur_xls"
 	categorie="outil"
-	version="1.0.6"
-	etat="stable"
+	version="1.0.7"
+	etat="test"
 	compatibilite="[3.0.0;4.2.*]"
 	documentation="http://contrib.spip.net/iterateur-xls"
 	logo="images/logo_iterateur_xls_32.png"
